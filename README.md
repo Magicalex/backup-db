@@ -2,9 +2,9 @@
 
 ## Installation
 
-Se connecter en ssh au user mondedie
+Se connecter en ssh au user
 ```bash
-cd /home/mondedie
+cd /home/user
 git clone git@github.com:Magicalex/backup-db.git backup
 cd backup
 touch config.sh
